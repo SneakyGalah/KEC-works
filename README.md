@@ -6,7 +6,7 @@ Warning: KEC Works locomotives use an old RLC and thus aren't compatible with RL
 
 ## To Install:
 
-1. For the latest releases, click on "Releases" (to the right) and download the latest zip. For the latest version (may be newer than latest release), click on the green "Code" button and then "Download Zip".
+1. To download the current roster, click on the green "Code" button and then "Download Zip".
 2. Open the Zip file using a program like WinZip or WinRar, if it didn't open automatically.
 3. Navigate __INTO__ the "KEC-works-main" Folder. You should see two items: a folder named "KEC WORKS LOCOMOTIVES" and readme.md.
 4. Extract the folder named "KEC WORKS LOCOMOTIVES" directly into: `<Your active steam directory>\SteamApps\common\Garry's Mod\garrysmod\data\advdupe2\`.
