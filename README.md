@@ -15,3 +15,10 @@ If you're currently in-game in Garry's Mod, open the AdvancedDuplicator 2, and c
 
 <br>
 
+## Everything else:
+
+_Credits_:
+* Meowmix 
+* NeededFour
+* All the amazing people that give feedback!
+
