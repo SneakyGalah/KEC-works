@@ -1,6 +1,9 @@
-# KEC Works
+![](https://imgur.com/36ODyGv.png)
 
-KEC Works make locomotives for use in Garry's Mod.
+<p align="center">Welcome to KEC Works.
+
+   
+Here at KEC Works we make locomotives for use in Garry's Mod.
 
 Warning: KEC Works locomotives use an old RLC and thus aren't compatible with RLC PT1 or PT2
 
