@@ -4,6 +4,13 @@ KEC Works make locomotives for use in Garry's Mod.
 
 Warning: KEC Works locomotives use an old RLC and thus aren't compatible with RLC PT1 or PT2
 
+## Dependencies:
+Sounds:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2971114961
+https://steamcommunity.com/sharedfiles/filedetails/?id=2001514088
+
+Textures:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2778762348
 ## To Install Dupes:
 
 1. To download the current roster, click on the green "Code" button and then "Download Zip".
