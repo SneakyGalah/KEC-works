@@ -40,5 +40,8 @@ If you're currently in-game in Garry's Mod, open the E2 Editor, and click the "U
 _Credits_:
 * Meowmix 
 * NeededFour
+* Westinghouse
+* Luzard
+* Redcliffish
 * All the amazing people that give feedback!
 
